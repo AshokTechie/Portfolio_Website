@@ -1,0 +1,10 @@
+node_modules
+.next
+next-env.d.ts
+*.tsbuildinfo
+Gemini_Generated_Image_*.png
+/cv.pdf
+/lnrs logo.jpg
+out
+/id card.jpeg
+/portrait-secret.*

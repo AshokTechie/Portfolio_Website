@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 288">
+  <path fill="#00599C" d="M128 0L0 74v140l128 74 128-74V74L128 0zm108 202.4L128 264.8 20 202.4V85.6L128 23.2l108 62.4v116.8z"/>
+  <path fill="#004482" d="M128 23.2v241.6l108-62.4V85.6L128 23.2z"/>
+  <text x="44%" y="54%" font-family="system-ui, -apple-system, sans-serif" font-size="76" font-weight="900" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">C++</text>
+</svg>
